@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+# C extensions
+*.so
+*.out
+
+# Distribution / packaging
+run/
+notebooks/
+*.egg-info/
+.installed.cfg
+*.egg
+# Sphinx documentation
+docs/_build/
